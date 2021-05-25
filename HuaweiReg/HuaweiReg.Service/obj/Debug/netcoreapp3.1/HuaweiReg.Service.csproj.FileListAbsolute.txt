@@ -1,0 +1,28 @@
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.csprojAssemblyReference.cache
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.AssemblyInfoInputs.cache
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.AssemblyInfo.cs
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Service.deps.json
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Service.dll
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Service.pdb
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Common.dll
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Data.dll
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Data.pdb
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Common.pdb
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.csproj.CopyComplete
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.dll
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.pdb
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.csproj.CoreCompileInputs.cache
+D:\New folder\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Service.deps.json
+D:\New folder\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Service.dll
+D:\New folder\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Service.pdb
+D:\New folder\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Common.dll
+D:\New folder\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Data.dll
+D:\New folder\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Data.pdb
+D:\New folder\HuaweiReg\HuaweiReg.Service\bin\Debug\netcoreapp3.1\HuaweiReg.Common.pdb
+D:\New folder\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.csprojAssemblyReference.cache
+D:\New folder\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.AssemblyInfoInputs.cache
+D:\New folder\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.AssemblyInfo.cs
+D:\New folder\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.csproj.CoreCompileInputs.cache
+D:\New folder\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.csproj.CopyComplete
+D:\New folder\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.dll
+D:\New folder\HuaweiReg\HuaweiReg.Service\obj\Debug\netcoreapp3.1\HuaweiReg.Service.pdb

@@ -1,0 +1,14 @@
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Release\netcoreapp3.1\HuaweiReg.Service.deps.json
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Release\netcoreapp3.1\HuaweiReg.Service.dll
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Release\netcoreapp3.1\HuaweiReg.Service.pdb
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Release\netcoreapp3.1\HuaweiReg.Common.dll
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Release\netcoreapp3.1\HuaweiReg.Data.dll
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Release\netcoreapp3.1\HuaweiReg.Data.pdb
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\bin\Release\netcoreapp3.1\HuaweiReg.Common.pdb
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Release\netcoreapp3.1\HuaweiReg.Service.csprojAssemblyReference.cache
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Release\netcoreapp3.1\HuaweiReg.Service.csproj.CoreCompileInputs.cache
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Release\netcoreapp3.1\HuaweiReg.Service.AssemblyInfoInputs.cache
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Release\netcoreapp3.1\HuaweiReg.Service.AssemblyInfo.cs
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Release\netcoreapp3.1\HuaweiReg.Service.csproj.CopyComplete
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Release\netcoreapp3.1\HuaweiReg.Service.dll
+E:\Work\Projects\HuaweiReg\HuaweiReg.Service\obj\Release\netcoreapp3.1\HuaweiReg.Service.pdb

@@ -1,0 +1,115 @@
+﻿a {
+    text-decoration: none !important;
+}
+
+.pl-big {
+    padding-left: calc(25% + 12px);
+    padding-right: 3rem;
+}
+
+.hover-show p {
+    display: none;
+}
+
+.hover-show:hover p {
+    display: block;
+}
+
+.privacy-popup {
+    display: none;
+}
+
+.footer-copyright-container {
+    background: #fff;
+}
+
+.form-label {
+    margin-top: 2rem;
+}
+
+.form-control {
+    font-size: 1.3rem;
+}
+
+.banner .banner-container {
+    height: 450px !important;
+}
+#content {
+    padding-top: 0px !important;
+    font-family: Huaweisans,Helvetica Neue,Helvetica,Arail,sans-serif;
+}
+
+@media (min-width: 1024px) {
+    .home-cases-hk .section-body .cases-logos .cases-logs-wrapper {
+        width: 14.2862% !important;
+    }
+}
+
+@media (max-width: 1023px) {
+    .solutions-pc {
+        display: block !important;
+    }
+
+    .solutions-mb {
+        display: none !important;
+    }
+
+    .solutions-img-box .img-box-mask {
+        position: relative;
+        height: 200px;
+    }
+
+    .solutions-img-box .img-box-mask {
+        position: relative !important;
+        height: 304px !important;
+    }
+
+    .por-tab-wrapper {
+        padding-top: 0;
+        margin-top: -3rem;
+    }
+
+    .solutions-img-box {
+        margin: 2rem 0;
+    }
+
+    .por-tab-content p.mb-5.pb-5, .por-tab-content h3 {
+        padding: 0 1.5rem;
+    }
+
+    .solutions-article-box {
+        padding-left: 0 !important;
+    }
+
+    .home-safe h1 {
+        padding: 0 1.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .header-top {
+        width: 100%;
+    }
+
+    .banner-text-mb {
+        top: 40vw !important;
+    }
+
+    .section-bottom .section-logo {
+        width: 100% !important;
+        margin: 4rem 0 !important;
+    }
+
+    .carousel-slide a {
+        pointer-events: none;
+        display: block;
+    }
+
+    .swiper-slide-duplicate {
+        display: none;
+    }
+
+    .banner .banner-container {
+        height: 75vh !important;
+    }
+}
